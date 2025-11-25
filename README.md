@@ -11,3 +11,18 @@ PCB:
 <img width="685" height="561" alt="Screenshot 2025-11-24 202141" src="https://github.com/user-attachments/assets/ab680f8e-7887-4ded-8131-ada6a153664d" />
 
 Scmatics: ![Schmatic](https://github.com/user-attachments/assets/063a5004-ebda-4b1a-9901-cd667747baec)
+
+
+
+BOM
+
+XIAO X1
+1x EC11 Rotary Encoder
+x2 WS2812B LEDs
+4x Cherry MX Switches
+x4 Heated inserts
+x3 5x M3x5x4 Heatset inserts
+
+#Notes
+
+Sorry about the poor quality, my computer is freaking out i dont know why Its never fully worked and so ive tryed my best (i cant afford a new computer but working to it!)
